@@ -1,3 +1,5 @@
+![Visualization](what_to_watch_viz.png)
+
 Please check the Rmd version of my step by step analysis with RStudio and Posit.
 
 TASK: Answer question 'what to watch?'
